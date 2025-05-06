@@ -56,7 +56,7 @@ Abra o arquivo .pbix com o Power BI Desktop.
 Vá até a aba Página Inicial > Atualizar. (Caso seja necessário ajustar o caminho de algum arquivo CSV ou pasta, clique em Transformar Dados > Fonte e modifique os caminhos conforme necessário)
 
 PUBLICAÇÃO:
-Publique no Power BI Service para comoartilhamento on line.
+Publique no Power BI Service para comPartilhamento on line.
 
 Publicação e Atualização Automática com Gateway
 1. Publicar no Power BI Service
