@@ -39,7 +39,7 @@ job(): Executa o processo completo para todos os arquivos da lista de URLs.
 schedule_jobs(): Agenda os horários de execução automática.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Conteúdo do Arquivo .pbix
+**Conteúdo do Arquivo do powerBI**
 
 Conexões com fontes de dados externas (CSV), Tratamento e transformação de dados via Power Query, Modelagem de dados (relacionamentos, colunas calculadas, medidas DAX), Relatórios com visuais interativos e segmentações, Filtros por UF, Ano do instrumento, convenente  entre outros.
 
