@@ -1,4 +1,4 @@
-Script de Download, Extração e Agendamento de Arquivos SICONV
+**Script de Download, Extração e Agendamento de Arquivos SICONV**
 
 O script automatiza o processo de download, verificação de integridade, extração e registro de data de carga de arquivos CSV compactados do portal de dados do governo federal http://repositorio.dados.gov.br/seges/detru/ (SICONV).
 Também permite o agendamento automático dessas tarefas em horários específicos.
