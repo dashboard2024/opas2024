@@ -46,9 +46,10 @@ Conexões com fontes de dados externas (CSV), Tratamento e transformação de da
 **Requisitos para Utilização:**
 
 Microsoft Power BI Desktop
-Conexão com a Fonte de Dados 
+Conexão com a Fonte de Dados (Arquivos CSV pasta local e credenciais acesso ao servidor Oracle robbins.funasa.gov:1551/homolog)
 Power BI Gateway (Pessoal ou Corporativo)
 Necessário para agendar a atualização de dados quando o relatório for publicado no Power BI Service.
+
 
 **Como Usar**
 
